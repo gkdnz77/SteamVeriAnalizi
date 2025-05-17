@@ -25,4 +25,4 @@ Fiyat, oynanma süresi, sahiplik aralıkları gibi veriler üzerinde istatistiks
 2. Proje klasörünü açtıktan sonra:
 
 ```bash
-jupyter notebook steam_analiz.ipynb
+jupyter notebook steamfiyat_analiz.ipynb
